@@ -93,13 +93,15 @@
 
 .title {
   color: $color-primary-2;
-  font-family: $font-demi;
+  font-family: $font-regular;
+  font-weight: 600;
   font-size: 0.8125rem;
   text-transform: uppercase;
 }
 .property-date {
   color: $color-secondary-1;
-  font-family: $font-demi;
+  font-family: $font-regular;
+  font-weight: 600;
 }
 .property {
   color: $color-secondary-1;

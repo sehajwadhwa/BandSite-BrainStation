@@ -20,6 +20,7 @@ h1 {
 
 h2 {
   margin: 1.5rem 0 1rem 0;
+
   @include sectionHeaderMobile;
 
   @include tablet {
@@ -332,7 +333,8 @@ h3 {
   margin: 0 1rem;
 
   &__name {
-    font-family: $font-demi;
+    font-family: $font-regular;
+    font-size: 600;
     color: $color-primary-2;
     margin-bottom: 1rem;
   }
@@ -351,7 +353,8 @@ h3 {
   }
 
   &__comment {
-    font-family: $font-demi;
+    font-family: $font-regular;
+    font-size: 600;
     color: $color-primary-2;
     margin-bottom: 1rem;
   }
@@ -374,7 +377,8 @@ h3 {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-family: $font-demi;
+      font-family: $font-regular;
+      font-size: 600;
     }
     .comment__list--timestamp {
       font-family: $font-regular;
