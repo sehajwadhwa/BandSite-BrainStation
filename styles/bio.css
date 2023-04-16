@@ -1,12 +1,4 @@
 @font-face {
-  font-family: "AvenirNextLTPro-Bold";
-  src: url(../assets/fonts/AvenirNextLTPro-Bold.otf);
-}
-@font-face {
-  font-family: "AvenirNextLTPro-Demi";
-  src: url(../assets/fonts/AvenirNextLTPro-Demi.otf);
-}
-@font-face {
   font-family: "AvenirNextLTPro-Regular";
   src: url(../assets/fonts/AvenirNextLTPro-Regular.otf);
 }
@@ -475,4 +467,4 @@ footer {
   font-size: 0.8125rem;
   line-height: 1.125rem;
   margin-bottom: 1rem;
-}/*# sourceMappingURL=bio.css.map */
+} /*# sourceMappingURL=bio.css.map */

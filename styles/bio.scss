@@ -334,7 +334,7 @@ h3 {
 
   &__name {
     font-family: $font-regular;
-    font-size: 600;
+    font-weight: 600;
     color: $color-primary-2;
     margin-bottom: 1rem;
   }
@@ -354,7 +354,7 @@ h3 {
 
   &__comment {
     font-family: $font-regular;
-    font-size: 600;
+    font-weight: 600;
     color: $color-primary-2;
     margin-bottom: 1rem;
   }
@@ -378,7 +378,7 @@ h3 {
       justify-content: space-between;
       align-items: center;
       font-family: $font-regular;
-      font-size: 600;
+      font-weight: 600;
     }
     .comment__list--timestamp {
       font-family: $font-regular;
