@@ -11,8 +11,22 @@ $color-secondary-3: #fafafa;
 /////////////////FONTS//////////////////
 
 @font-face {
-  font-family: "AvenirNextLTPro-Regular";
-  src: url(../../Assets/Font/AvenirNextLTPro-Regular.otf);
+  font-family: "Avenir";
+  src: url("../../Assets/Font/AvenirNextLTPro-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
 }
 
-$font-regular: "AvenirNextLTPro-Regular";
+@font-face {
+  font-family: "Avenir";
+  src: url("../../Assets/Font/AvenirNextLTPro-Demi.otf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: url("../../Assets/Font/AvenirNextLTPro-Bold.otf");
+  font-weight: 700;
+  font-style: normal;
+}

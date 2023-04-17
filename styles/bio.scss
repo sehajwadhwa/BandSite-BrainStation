@@ -6,7 +6,7 @@ a {
   text-decoration: none;
 }
 p {
-  font-family: $font-regular;
+  font-family: "Avenir";
 }
 h1 {
   margin: 1.5rem 0 1rem 0;
@@ -333,7 +333,7 @@ h3 {
   margin: 0 1rem;
 
   &__name {
-    font-family: $font-regular;
+    font-family: "Avenir";
     font-weight: 600;
     color: $color-primary-2;
     margin-bottom: 1rem;
@@ -346,14 +346,14 @@ h3 {
     border-radius: 5px;
     padding: 0.75rem;
     margin-bottom: 1rem;
-    font-family: $font-regular;
+    font-family: "Avenir";
     &:active {
       border: 1px solid black;
     }
   }
 
   &__comment {
-    font-family: $font-regular;
+    font-family: "Avenir";
     font-weight: 600;
     color: $color-primary-2;
     margin-bottom: 1rem;
@@ -377,11 +377,11 @@ h3 {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-family: $font-regular;
+      font-family: "Avenir";
       font-weight: 600;
     }
     .comment__list--timestamp {
-      font-family: $font-regular;
+      font-family: "Avenir";
       color: $color-primary-2;
     }
 

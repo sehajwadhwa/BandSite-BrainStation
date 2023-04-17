@@ -21,38 +21,38 @@
 //FONT MIXINS FOR MOBILE
 
 @mixin pageHeaderMobile {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 700;
   font-size: 1.5rem;
   line-height: 2rem;
 }
 
 @mixin sectionHeaderMobile {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 700;
   font-size: 1.5rem;
   line-height: 2rem;
 }
 @mixin subHeaderMobile {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 600;
   font-size: 0.875rem;
   line-height: 1.375rem;
 }
 @mixin bodyCopyMobile {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-size: 0.8125rem;
   line-height: 1.125rem;
 }
 
 @mixin footerCopyMobile {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-size: 0.8125rem;
   line-height: 1.125rem;
 }
 
 @mixin labelBtnMobile {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 400;
   font-size: 0.625rem;
   line-height: 1.25rem;
@@ -61,35 +61,35 @@
 //FONT MIXINS TABLET-WEB
 
 @mixin pageHeaderTabDesk {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 700;
   font-size: 3.75rem;
   line-height: 4.25rem;
 }
 @mixin sectionHeaderTabDesk {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 700;
   font-size: 2.25rem;
   line-height: 2.75rem;
 }
 @mixin subHeaderTabDesk {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 600;
   font-size: 1.5rem;
   line-height: 2rem;
 }
 @mixin bodyCopyTabDesk {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-size: 0.875rem;
   line-height: 1.375rem;
 }
 @mixin footerCopyTabDesk {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
 @mixin labelBtnTabDesk {
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 700;
   font-size: 0.75rem;
   line-height: 1.25rem;

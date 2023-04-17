@@ -4,7 +4,7 @@
 .hero-shows {
   display: flex;
   flex-direction: column;
-  background-image: url(../assets/images/hero-shows.jpg);
+  background-image: url(../Assets/Images/hero-bio.jpg);
   height: 100%;
   width: 100%;
   background-size: cover;
@@ -93,19 +93,19 @@
 
 .title {
   color: $color-primary-2;
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 600;
   font-size: 0.8125rem;
   text-transform: uppercase;
 }
 .property-date {
   color: $color-secondary-1;
-  font-family: $font-regular;
+  font-family: "Avenir";
   font-weight: 600;
 }
 .property {
   color: $color-secondary-1;
-  font-family: $font-regular;
+  font-family: "Avenir";
 }
 .shows-mobile {
   display: flex;

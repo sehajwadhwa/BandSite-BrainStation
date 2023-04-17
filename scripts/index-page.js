@@ -11,13 +11,13 @@ let commentList = [
     name: "Emilie Beach",
     comment:
       "I feel blessed to have seen them in person. What a show! They were just perfection. If there was one day of my life I could relive, this would be it. What an incredible day.",
-    timestamp: "02/17/2021",
+    timestamp: "01/09/2021",
   },
   {
     name: "Miles Acosta",
     comment:
       "I can't stop listening. Every time I hear one of their songs - the vocals - it gives me goosebumps. Shivers straight down my spine. What a beautiful expression of creativity. Can't get enough.",
-    timestamp: "02/17/2021",
+    timestamp: "12/20/2020",
   },
 ];
 
